@@ -1,0 +1,6 @@
+D:\Vitali_Pantsialei\Mentoring\MentoringMultithreading2\HundredTasks\bin\Debug\HundredTasks.exe.config
+D:\Vitali_Pantsialei\Mentoring\MentoringMultithreading2\HundredTasks\bin\Debug\HundredTasks.exe
+D:\Vitali_Pantsialei\Mentoring\MentoringMultithreading2\HundredTasks\bin\Debug\HundredTasks.pdb
+D:\Vitali_Pantsialei\Mentoring\MentoringMultithreading2\HundredTasks\obj\Debug\HundredTasks.csprojResolveAssemblyReference.cache
+D:\Vitali_Pantsialei\Mentoring\MentoringMultithreading2\HundredTasks\obj\Debug\HundredTasks.exe
+D:\Vitali_Pantsialei\Mentoring\MentoringMultithreading2\HundredTasks\obj\Debug\HundredTasks.pdb
